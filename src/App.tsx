@@ -267,69 +267,75 @@ function App() {
 </tr>
 <tr>
     <td>50</td>
+    <td>Shradhanand Kumar</td>
+    <td>24AR10035</td>
+</tr>
+<tr>
+    <td>51</td>
     <td>Shravi Bansal</td>
     <td>24EC10130</td>
 </tr>
 <tr>
-    <td>51</td>
+    <td>52</td>
     <td>Simarat Singh Ajmani</td>
     <td>24AE10055</td>
 </tr>
 <tr>
-    <td>52</td>
+    <td>53</td>
     <td>Stuti Jain</td>
     <td>24MI10100</td>
 </tr>
 <tr>
-    <td>53</td>
+    <td>54</td>
     <td>Sumit Nahak</td>
     <td>24EX10043</td>
 </tr>
 <tr>
-    <td>54</td>
+    <td>55</td>
     <td>Swecha Sanjay</td>
     <td>24CE10113</td>
 </tr>
 <tr>
-    <td>55</td>
+    <td>56</td>
     <td>Tanmay Mishra</td>
     <td>24NA10073</td>
 </tr>
 <tr>
-    <td>56</td>
+    <td>57</td>
     <td>Tushant Raghav</td>
     <td>24NA10074</td>
 </tr>
 <tr>
-    <td>57</td>
+    <td>58</td>
     <td>Uday Singh</td>
     <td>24CY10042</td>
 </tr>
 <tr>
-    <td>58</td>
+    <td>59</td>
     <td>Varsha</td>
     <td>24HS10059</td>
 </tr>
 <tr>
-    <td>59</td>
+    <td>60</td>
     <td>Vedant Pawar</td>
     <td>24NA10075</td>
 </tr>
 <tr>
-    <td>60</td>
+    <td>61</td>
     <td>Vrinda Singh</td>
     <td>24MI10110</td>
 </tr>
 <tr>
-    <td>61</td>
+    <td>62</td>
     <td>Yash Agrawal</td>
     <td>24AG10087</td>
 </tr>
 <tr>
-    <td>62</td>
+    <td>63</td>
     <td>Yash Khandelwal</td>
     <td>24MI10111</td>
 </tr>
+
 
     </tbody>
 </table>
