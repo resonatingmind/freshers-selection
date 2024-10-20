@@ -20,11 +20,6 @@ function App() {
         </tr>
     </thead>
     <tbody>
-    <tr>
-    <td>S no.</td>
-    <td>Name</td>
-    <td>Roll No.</td>
-</tr>
 <tr>
     <td>1</td>
     <td>Aadi Jain</td>
